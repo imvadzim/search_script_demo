@@ -1,5 +1,5 @@
-Search_Directory = /path/to/search/directory/
-Output_Directory = /path/to/output/directory/
-Search_Keywords = HR, DEI, Diversity, Human Resources
-Search_Columns = 2, 5
-OutputFile = search_results_name
+Search_Directory=./searchDirectory
+Output_Directory=./outputDirectory
+Search_Keywords=bud, 612, try@now.com
+Search_Columns=1, 2, 4
+OutputFile=search_results_name
